@@ -6,6 +6,7 @@
 # Now, if you type this wrong, for example, if I wrote phone number without an 'e', and I try to run this, then you'll see, I get an error. 
 # But the spell check should already alert you to the issue before you even hit run. See how this is underlined with a squiggle and it tells you that there's a typo in the word phon, and you can click change to phone maybe.
 # And it's just a subtle hint to say, 'Hey, I think maybe you got that wrong. Just DoubleCheck.' And indeed, once we fix that, then we get rid of all our issues and everything works perfectly.
+
 contacts = {
     "James": {
         "phone_number": 1234567890,
